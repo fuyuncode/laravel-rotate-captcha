@@ -1,5 +1,5 @@
 {
-    "name": "levi/laravel-rotate-captcha",
+    "name": "fuyuncode/laravel-rotate-captcha",
     "description": "laravel rotate captcha",
     "type": "library",
     "license": "MIT",
