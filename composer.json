@@ -21,7 +21,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "laravel/framework": "^9.0|^10.0",
+        "laravel/framework": "^11.0",
         "php": ">=8.0"
     },
     "extra": {
